@@ -1,4 +1,4 @@
-<h2>⚠️ Repository is no longer maintained ⚠️</h2>
+<h2>⚠️ Repository is no longer maintained by the official Developer , It will de maintained unofficially⚠️</h2>
 <h2 align="center">
   <br>
   <a href="https://github.com/botallen/repository.botallen"><img src="repository.botallen/icon2.png" height="60" width="60"></a>
