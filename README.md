@@ -1,7 +1,7 @@
 <h2>⚠️ Repository is no longer maintained by the official Developer , It will de maintained unofficially⚠️</h2>
 <h2 align="center">
   <br>
-  <a href="https://github.com/botallen/repository.botallen"><img src="repository.botallen/icon2.png" height="60" width="60"></a>
+  <a href="https://github.com/Brajo280603/repository.botallen"><img src="repository.botallen/icon2.png" height="60" width="60"></a>
   <br>
   BotAllen
   <br>
@@ -12,31 +12,31 @@
 <p align="center">
 
   <!-- Release -->
-  <a href="https://github.com/botallen/repository.botallen/releases/latest">
-    <img src="https://img.shields.io/github/v/release/botallen/repository.botallen?style=for-the-badge">
+  <a href="https://github.com/Brajo280603/repository.botallen/releases/latest">
+    <img src="https://img.shields.io/github/v/release/Brajo280603/repository.botallen?style=for-the-badge">
   </a>
   
   <!-- Downloads -->
-  <a href="https://github.com/botallen/repository.botallen/releases/latest">
-    <img src="https://img.shields.io/github/downloads/botallen/repository.botallen/total?style=for-the-badge&logo=kodi&color=17B2E7">
+  <a href="https://github.com/Brajo280603/repository.botallen/releases/latest">
+    <img src="https://img.shields.io/github/downloads/Brajo280603/repository.botallen/total?style=for-the-badge&logo=kodi&color=17B2E7">
   </a>
   
  </p>
  <p align="center">
   
   <!-- License -->
-  <a href="https://github.com/botallen/repository.botallen/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/botallen/repository.botallen?style=flat-square">
+  <a href="https://github.com/Brajo280603/repository.botallen/blob/master/LICENSE">
+    <img src="https://img.shields.io/github/license/Brajo280603/repository.botallen?style=flat-square">
   </a>
   
   <!-- Open Issues -->
-  <a href="https://github.com/botallen/repository.botallen/issues">
-    <img src="https://img.shields.io/github/issues/botallen/repository.botallen?style=flat-square">
+  <a href="https://github.com/Brajo280603/repository.botallen/issues">
+    <img src="https://img.shields.io/github/issues/Brajo280603/repository.botallen?style=flat-square">
   </a>
   
   <!-- Last Commit -->
-  <a href="https://github.com/botallen/repository.botallen/commit/master">
-    <img src="https://img.shields.io/github/last-commit/botallen/repository.botallen?style=flat-square">
+  <a href="https://github.com/Brajo280603/repository.botallen/commit/master">
+    <img src="https://img.shields.io/github/last-commit/Brajo280603/repository.botallen?style=flat-square">
   </a>
   
  </p>
@@ -48,14 +48,14 @@
 <p align="center">
   
 <span style="display: inline-block;">
-  <a href="https://github.com/botallen/plugin.video.botallen.hotstar">
-    <img src="https://raw.githubusercontent.com/botallen/plugin.video.botallen.hotstar/main/resources/icon.jpg" width="100" height="100">
+  <a href="https://github.com/Brajo280603/plugin.video.botallen.hotstar">
+    <img src="https://raw.githubusercontent.com/Brajo280603/plugin.video.botallen.hotstar/main/resources/icon.jpg" width="100" height="100">
   </a>
 </span>
 
 <span style="display: inline-block;">
-  <a href="https://github.com/botallen/plugin.video.jiotv">
-    <img src="https://raw.githubusercontent.com/botallen/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
+  <a href="https://github.com/Brajo280603/plugin.video.jiotv">
+    <img src="https://raw.githubusercontent.com/Brajo280603/plugin.video.jiotv/main/resources/icon.png" width="100" height="100">
   </a>
 </span>
 </p>
@@ -76,10 +76,10 @@
 
 ## Download
 
-[**Download**](https://github.com/botallen/repository.botallen/releases/download/v2.0.0/repository.botallen-2.0.0.zip) the `.zip` file.
+[**Download**](https://github.com/Brajo280603/repository.botallen/releases/download/v2.0.0/repository.botallen-2.0.0.zip) the `.zip` file.
 <br/>
 <br/>
 
-## Support
+## Support the original developer
 
 <a href="https://botallen.com/#donate" target="_blank" >https://botallen.com/#donate</a>
